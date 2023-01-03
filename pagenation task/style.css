@@ -1,0 +1,11 @@
+.cont{
+    display:flex;
+    justify-content: center;
+}
+.container{
+    position: fixed;
+    bottom: 100px;
+}
+button{
+    background-color: rgb(180, 226, 226);
+}
